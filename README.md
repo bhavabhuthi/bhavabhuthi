@@ -73,7 +73,7 @@
   </tr>
 <!-- Backend Development -->
         <tr>
-          <th rowspan="5">Backend Development</th>
+          <th rowspan="4">Backend Development</th>
             <td>Languages</td>
             <td>
                 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
@@ -88,14 +88,9 @@
             </td>
         </tr>
         <tr>
-            <td>Relational Databases</td>
+            <td>Databases</td>
             <td>
                 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-            </td>
-        </tr>
-        <tr>
-            <td>NoSQL Databases</td>
-            <td>
                 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
                 <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
             </td>
@@ -133,7 +128,7 @@
             <td>Quick Hosting Platforms</td>
             <td>
                 <img src="https://img.shields.io/badge/GitLab%20Pages-grey?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Pages">
-                <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="GitHub Pages">
+                <img src="https://img.shields.io/badge/GitHub%20Pages-grey?style=for-the-badge&logo=github" alt="GitHub Pages">
                 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
                 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
             </td>
@@ -162,19 +157,20 @@
             <th colspan="2">Tools</th>
         </tr> -->
         <tr>
-          <th rowspan="5">Tools</th>
+          <th rowspan="4">Tools</th>
             <td>Operating Systems</td>
             <td>
-                <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+                <img src="https://img.shields.io/badge/Arch%20Linux%20-white?style=for-the-badge&logo=archlinux" alt="Arch Linux">
+                <img src="https://img.shields.io/badge/Debian%20-%23A81D33?style=for-the-badge&logo=debian" alt="Debian">
                 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
             </td>
         </tr>
-        <tr>
+<!--         <tr>
             <td>Version Control Systems (VCS)</td>
             <td>
                 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td>Cloud VCS</td>
             <td>
@@ -186,13 +182,14 @@
         <tr>
             <td>IDEs</td>
             <td>
+                <img src="https://img.shields.io/badge/VS%20Codium-white?style=for-the-badge&logo=vscodium" alt="VS Codium">
                 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code">
                 <img src="https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white" alt="Atom">
                 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Collab">
             </td>
         </tr>
         <tr>
-            <td>Design Tools</td>
+            <td>Design</td>
             <td>
                 <img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" alt="Inkscape">
             </td>
