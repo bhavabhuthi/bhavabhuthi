@@ -1,7 +1,13 @@
 
 <h1 align="center">
   <b>Hello , I'm Bhavabhuthi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+  <picture alt="snake-eats-github-progress">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bhavabhuthi/bhavabhuthi/output/github-contribution-grid-snake.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bhavabhuthi/bhavabhuthi/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/bhavabhuthi/bhavabhuthi/output/github-contribution-grid-snake.svg" />
+  </picture>
 </h1>
+
 <!--  -->
 <p align="center">
   💻 Full Stack Engineer, 🌏 Hyderabad 
@@ -231,11 +237,12 @@
 </p>
 
 
+
 ---
 
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=bhavabhuthi&icon=6&color=4)](https://visitcount.itsvg.in" alt="Views">
+<img src="https://visitcount.itsvg.in/api?id=bhavabhuthi&icon=6&color=4)](https://visitcount.itsvg.in">
 </p>
 
 
